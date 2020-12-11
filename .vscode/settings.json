@@ -1,0 +1,20 @@
+{
+    "emmet.extensionsPath": "",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    },
+    // "emmet.syntaxProfiles": {
+    //     "html": {
+    //         "self_closing_tag" : true
+    //     },
+    //     "jsx": {
+    //         "self_closing_tag": true
+    //     }
+    // },
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ]
+
+}
