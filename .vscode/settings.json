@@ -15,6 +15,7 @@
     "emmet.excludeLanguages": [
 
         "markdown"
-    ]
+    ],
+    "editor.wordWrap": "on"
 
 }
